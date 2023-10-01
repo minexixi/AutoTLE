@@ -58,10 +58,11 @@ satelistName = [
     'LEDSAT','InspireSat-7'
 ]
 allTle = open('allTLE.txt', 'r')
+allTles = str(allTle.read())
 for i in range(len(satelistNumber)):
     temp = [temp for temp in Tles if satelistNumber[i] in temp]
     print(satelistName[i])
-    if satelistNumber[i] in allTle:
+    if satelistNumber[i] in allTles:
         print(satelistNumber[i])
         getTles = satelistName[i] + '\n' + Tles[Tles.index(temp[0])] + '\n' + Tles[Tles.index(temp[0]) + 1] + '\n'
         Tle.write(getTles)
