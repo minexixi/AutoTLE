@@ -57,6 +57,7 @@ satelistName = [
     ,'CSS(MengTian)','CAS-10(XW-4)','CAS-5A(FO-118)','GreenCube','TEVEL-2','TEVEL-3','TEVEL-4','TEVEL-5','TEVEL-6','TEVEL-7',
     'LEDSAT','InspireSat-7'
 ]
+allTle = open('allTLE.txt', 'r')
 for i in range(len(satelistNumber)):
     temp = [temp for temp in Tles if satelistNumber[i] in temp]
     print(satelistName[i])
@@ -64,5 +65,5 @@ for i in range(len(satelistNumber)):
         print(satelistNumber[i])
         getTles = satelistName[i] + '\n' + Tles[Tles.index(temp[0])] + '\n' + Tles[Tles.index(temp[0]) + 1] + '\n'
         Tle.write(getTles)
-
+allTle.close()
 Tle.close()
