@@ -61,6 +61,7 @@ for i in range(len(satelistNumber)):
     temp = [temp for temp in Tles if satelistNumber[i] in temp]
     print(satelistName[i])
     if satelistNumber[i] in Tles:
+        print(satelistNumber[i])
         getTles = satelistName[i] + '\n' + Tles[Tles.index(temp[0])] + '\n' + Tles[Tles.index(temp[0]) + 1] + '\n'
         Tle.write(getTles)
 
