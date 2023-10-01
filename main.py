@@ -7,28 +7,28 @@ headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/
 
 def delete_proxy(proxy):
     requests.get("http://127.0.0.1:5010/delete/?proxy={}".format(proxy))'''
-
+'''
+, proxies={"http": "http://127.0.0.1:10809"}
+'''
 #proxy = get_proxy().get("proxy")
-temp = requests.get('http://www.celestrak.com/NORAD/elements/amateur.txt', headers=headers) #, proxies={"http": "http://127.0.0.1:10809"})
+temp = requests.get('http://www.celestrak.com/NORAD/elements/amateur.txt', headers=headers)
 allTle = open('allTLE.txt', 'w')
 allTle.write(str(temp.text))
-temp = requests.get('http://www.celestrak.com/NORAD/elements/cubesat.txt', headers=headers) #, proxies={"http": "http://127.0.0.1:10809"})
+temp = requests.get('http://www.celestrak.com/NORAD/elements/cubesat.txt', headers=headers)
 allTle.write(str(temp.text))
-temp = requests.get('http://www.celestrak.com/NORAD/elements/active.txt', headers=headers) #, proxies={"http": "http://127.0.0.1:10809"})
+temp = requests.get('http://www.celestrak.com/NORAD/elements/active.txt', headers=headers)
 allTle.write(str(temp.text))
-temp = requests.get('http://www.celestrak.com/NORAD/elements/dmc.txt', headers=headers) #, proxies={"http": "http://127.0.0.1:10809"})
+temp = requests.get('http://www.celestrak.com/NORAD/elements/dmc.txt', headers=headers)
 allTle.write(str(temp.text))
-temp = requests.get('http://www.celestrak.com/NORAD/elements/weather.txt', headers=headers) #, proxies={"http": "http://127.0.0.1:10809"})
+temp = requests.get('http://www.celestrak.com/NORAD/elements/weather.txt', headers=headers)
 allTle.write(str(temp.text))
-temp = requests.get('http://www.celestrak.com/NORAD/elements/tle-new.txt', headers=headers) #, proxies={"http": "http://127.0.0.1:10809"})
+temp = requests.get('http://www.celestrak.com/NORAD/elements/tle-new.txt', headers=headers)
 allTle.write(str(temp.text))
-temp = requests.get('http://www.celestrak.com/NORAD/elements/noaa.txt', headers=headers) #, proxies={"http": "http://127.0.0.1:10809"})
+temp = requests.get('http://www.celestrak.com/NORAD/elements/noaa.txt', headers=headers)
 allTle.write(str(temp.text))
-temp = requests.get('http://www.celestrak.com/NORAD/elements/other.txt', headers=headers) #, proxies={"http": "http://127.0.0.1:10809"})
+temp = requests.get('http://www.celestrak.com/NORAD/elements/other-comm.txt', headers=headers)
 allTle.write(str(temp.text))
-temp = requests.get('http://www.celestrak.com/NORAD/elements/other-comm.txt', headers=headers) #, proxies={"http": "http://127.0.0.1:10809"})
-allTle.write(str(temp.text))
-temp = requests.get('http://www.celestrak.com/NORAD/elements/stations.txt', headers=headers) #, proxies={"http": "http://127.0.0.1:10809"})
+temp = requests.get('http://www.celestrak.com/NORAD/elements/stations.txt', headers=headers)
 allTle.write(str(temp.text))
 
 
