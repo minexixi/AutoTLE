@@ -4,9 +4,7 @@ C:\Users\Administrator\Documents>C:
 C:\Users\Administrator\Documents>cd C:\Users\Administrator\Documents\AutoTLE 
 
 C:\Users\Administrator\Documents\AutoTLE>git pull origin master 
-Merge made by the 'ort' strategy.
- README.md | 2 +-
- 1 file changed, 1 insertion(+), 1 deletion(-)
+Already up to date.
 
 C:\Users\Administrator\Documents\AutoTLE>python main.py  
 ISS(ZARYA)
@@ -82,8 +80,8 @@ LEDSAT
 49069U
 InspireSat-7
 
-C:\Users\Administrator\Documents\AutoTLE>git add * 
+C:\Users\Administrator\Documents\AutoTLE>git add *  1>C:\Users\Administrator\Documents\AutoTLE\logs.txt 
 
-C:\Users\Administrator\Documents\AutoTLE>git add logs.txt 
+C:\Users\Administrator\Documents\AutoTLE>git add logs.txt  1>C:\Users\Administrator\Documents\AutoTLE\logs.txt 
 
-C:\Users\Administrator\Documents\AutoTLE>git commit -a -m "Auto upload" 
+C:\Users\Administrator\Documents\AutoTLE>git commit -a -m "Auto upload"  
