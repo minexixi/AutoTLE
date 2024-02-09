@@ -607,36 +607,6 @@ BEESAT-8
 LEDSAT                  
 1 49069U 21073D   24040.15202527  .00017750  00000+0  82128-3 0  9998
 2 49069  97.4545 112.5483 0021585  19.8520 340.3551 15.19986201136827
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml">
-<head>
-<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1"/>
-<title>404 - File Not Found.</title>
-<style type="text/css">
-<!--
-body{margin:0;font-size:.7em;font-family:Verdana, Arial, Helvetica, sans-serif;background:#EEEEEE;}
-fieldset{padding:0 15px 10px 15px;}
-h1{font-size:2.4em;margin:0;color:#FFF;}
-h2{font-size:1.7em;margin:0;color:#CC0000;}
-h3{font-size:1.2em;margin:10px 0 0 0;color:#000000;}
-#header{width:96%;margin:0 0 0 0;padding:6px 2% 6px 2%;font-family:"trebuchet MS", Verdana, sans-serif;color:#FFF;
-background-color:#555555;}
-#content{margin:0 0 0 2%;position:relative;}
-.content-container{background:#FFF;width:96%;margin-top:8px;padding:10px;position:relative;}
--->
-</style>
-</head>
-<body>
-<div id="header"><h1>Server Error</h1></div>
-<div id="content">
- <div class="content-container"><fieldset>
-  <h2>404 - File Not Found.</h2>
-  <h3>File not found for celestrak.org/NORAD/elements/active.txt.</h3>
-  <h3>Please contact <a href="mailto:ts.kelso@celestrak.org">ts.kelso@celestrak.org</a> if you have other questions.</h3>
- </fieldset></div>
-</div>
-</body>
-</html>
 BEIJING 1               
 1 28890U 05043A   24040.44416223  .00000780  00000+0  16428-3 0  9993
 2 28890  98.1813 164.4054 0016251  89.5542 270.7521 14.62130260975089
@@ -1375,66 +1345,75 @@ PACE
 2024-026B               
 1 58930U 24027B   24040.43374001 -.00000109  00000+0  00000+0 0  9991
 2 58930  96.7600 299.0299 0007034  25.6588  85.8589 15.72070757    07
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml">
-<head>
-<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1"/>
-<title>404 - File Not Found.</title>
-<style type="text/css">
-<!--
-body{margin:0;font-size:.7em;font-family:Verdana, Arial, Helvetica, sans-serif;background:#EEEEEE;}
-fieldset{padding:0 15px 10px 15px;}
-h1{font-size:2.4em;margin:0;color:#FFF;}
-h2{font-size:1.7em;margin:0;color:#CC0000;}
-h3{font-size:1.2em;margin:10px 0 0 0;color:#000000;}
-#header{width:96%;margin:0 0 0 0;padding:6px 2% 6px 2%;font-family:"trebuchet MS", Verdana, sans-serif;color:#FFF;
-background-color:#555555;}
-#content{margin:0 0 0 2%;position:relative;}
-.content-container{background:#FFF;width:96%;margin-top:8px;padding:10px;position:relative;}
--->
-</style>
-</head>
-<body>
-<div id="header"><h1>Server Error</h1></div>
-<div id="content">
- <div class="content-container"><fieldset>
-  <h2>404 - File Not Found.</h2>
-  <h3>File not found for celestrak.org/NORAD/elements/noaa.txt.</h3>
-  <h3>Please contact <a href="mailto:ts.kelso@celestrak.org">ts.kelso@celestrak.org</a> if you have other questions.</h3>
- </fieldset></div>
-</div>
-</body>
-</html>
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml">
-<head>
-<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1"/>
-<title>404 - File Not Found.</title>
-<style type="text/css">
-<!--
-body{margin:0;font-size:.7em;font-family:Verdana, Arial, Helvetica, sans-serif;background:#EEEEEE;}
-fieldset{padding:0 15px 10px 15px;}
-h1{font-size:2.4em;margin:0;color:#FFF;}
-h2{font-size:1.7em;margin:0;color:#CC0000;}
-h3{font-size:1.2em;margin:10px 0 0 0;color:#000000;}
-#header{width:96%;margin:0 0 0 0;padding:6px 2% 6px 2%;font-family:"trebuchet MS", Verdana, sans-serif;color:#FFF;
-background-color:#555555;}
-#content{margin:0 0 0 2%;position:relative;}
-.content-container{background:#FFF;width:96%;margin-top:8px;padding:10px;position:relative;}
--->
-</style>
-</head>
-<body>
-<div id="header"><h1>Server Error</h1></div>
-<div id="content">
- <div class="content-container"><fieldset>
-  <h2>404 - File Not Found.</h2>
-  <h3>File not found for celestrak.org/NORAD/elements/other-comm.txt.</h3>
-  <h3>Please contact <a href="mailto:ts.kelso@celestrak.org">ts.kelso@celestrak.org</a> if you have other questions.</h3>
- </fieldset></div>
-</div>
-</body>
-</html>
+NOAA 1 [-]              
+1 04793U 70106A   24040.17275502 -.00000018  00000+0  16155-3 0  9996
+2 04793 101.4677  96.6573 0031508 228.4603 199.7951 12.54024096433496
+NOAA 2 (ITOS-D) [-]     
+1 06235U 72082A   24039.91799431 -.00000019  00000+0  17506-3 0  9998
+2 06235 102.0115  37.4221 0004041  10.4853  56.9803 12.53174518347313
+NOAA 3 [-]              
+1 06920U 73086A   24039.91501221 -.00000017  00000+0  22045-3 0  9994
+2 06920 102.2703  34.8132 0006456 263.7635 165.4838 12.40363541275365
+NOAA 4 [-]              
+1 07529U 74089A   24039.89384135 -.00000027  00000+0  12340-3 0  9992
+2 07529 101.9807  33.0008 0009121  36.1497  27.6384 12.53176377251884
+NOAA 5 [-]              
+1 09057U 76077A   24039.88041312 -.00000025  00000+0  15891-3 0  9997
+2 09057 102.1915  13.6143 0009748 111.7141 304.1140 12.37795449148157
+TIROS N [-]             
+1 11060U 78096A   24040.15084432  .00000331  00000+0  17979-3 0  9997
+2 11060  98.5519  85.2574 0010154 203.4441 156.6274 14.18726692557157
+NOAA 6 [-]              
+1 11416U 79057A   24040.06847594  .00000684  00000+0  25928-3 0  9990
+2 11416  98.6399  61.3931 0009143 283.8335  76.1832 14.34342701327953
+NOAA 7 [-]              
+1 12553U 81059A   24040.16135537  .00000133  00000+0  87819-4 0  9993
+2 12553  98.9133  99.2604 0011217 198.1843 161.8932 14.17483461203258
+NOAA 8 [-]              
+1 13923U 83022A   24039.90706737  .00000364  00000+0  16123-3 0  9998
+2 13923  98.7269  39.6662 0013977 249.9658 110.0019 14.29146590128300
+NOAA 9 [-]              
+1 15427U 84123A   24039.91360205  .00000307  00000+0  17765-3 0  9999
+2 15427  99.1121  34.2237 0013849 261.9876 154.8337 14.16507080 21746
+NOAA 10 [-]             
+1 16969U 86073A   24039.91309264  .00000372  00000+0  16577-3 0  9997
+2 16969  98.6298  27.1413 0012089 355.9504  65.3705 14.28521572946691
+NOAA 11 [-]             
+1 19531U 88089A   24039.93255601  .00000165  00000+0  10572-3 0  9990
+2 19531  98.5008   8.3208 0010104 244.5059 115.5071 14.15483351825906
+NOAA 12 [-]             
+1 21263U 91032A   24039.91514108  .00000270  00000+0  13062-3 0  9999
+2 21263  98.5498  34.0051 0014151  24.4472 335.7377 14.26238932702450
+NOAA 13 [-]             
+1 22739U 93050A   24039.86021593  .00000249  00000+0  15552-3 0  9997
+2 22739  98.5887   2.4048 0010478  65.4724 294.7540 14.13132254571983
+NOAA 14 [-]             
+1 23455U 94089A   24039.91461318  .00000153  00000+0  10118-3 0  9992
+2 23455  98.4291  43.1129 0010184  40.0074 320.1848 14.14347923501722
+NOAA 15 [B]             
+1 25338U 98030A   24040.46049125  .00000343  00000+0  16026-3 0  9999
+2 25338  98.5838  70.1915 0009966 346.7766  13.3152 14.26489253339088
+NOAA 16 [-]             
+1 26536U 00055A   24039.90328445  .00000188  00000+0  12190-3 0  9997
+2 26536  98.5515  85.3002 0009503 243.2826 116.7375 14.13524959502313
+NOAA 17 [-]             
+1 27453U 02032A   24039.92141343  .00000428  00000+0  19989-3 0  9995
+2 27453  98.7475 350.7053 0011228 329.0830  30.9687 14.25482203124534
+NOAA 18 [B]             
+1 28654U 05018A   24040.41886318  .00000360  00000+0  21596-3 0  9992
+2 28654  98.8860 118.4155 0015077  70.4935 289.7864 14.13118739965078
+NOAA 19 [+]             
+1 33591U 09005A   24040.42323263  .00000330  00000+0  20160-3 0  9997
+2 33591  99.0672  94.7618 0012948 296.6828  63.3017 14.12923027773442
+SUOMI NPP [+]           
+1 37849U 11061A   24040.47914674  .00000185  00000+0  10846-3 0  9997
+2 37849  98.7294 340.4190 0000744  67.2185 292.9070 14.19553868636607
+NOAA 20 [+]             
+1 43013U 17073A   24040.44369670  .00000187  00000+0  10937-3 0  9996
+2 43013  98.7372 340.3599 0001284 112.3023 247.8289 14.19543362322633
+NOAA 21 (JPSS-2) [+]    
+1 54234U 22150A   24039.89612567  .00000212  00000+0  12144-3 0  9999
+2 54234  98.7406 339.3867 0001426  94.9512 265.1827 14.19571966 64635
 ISS (ZARYA)             
 1 25544U 98067A   24040.67576098  .00019757  00000+0  35708-3 0  9992
 2 25544  51.6394 232.2091 0002248 218.6028 230.2844 15.49694937438625
