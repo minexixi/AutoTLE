@@ -4,7 +4,9 @@ C:\Users\Administrator\Documents>C:
 C:\Users\Administrator\Documents>cd C:\Users\Administrator\Documents\AutoTLE 
 
 C:\Users\Administrator\Documents\AutoTLE>git pull origin master 
-Already up to date.
+Merge made by the 'ort' strategy.
+ README.md | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
 
 C:\Users\Administrator\Documents\AutoTLE>python main.py  
 ISS(ZARYA)
@@ -81,17 +83,6 @@ LEDSAT
 InspireSat-7
 
 C:\Users\Administrator\Documents\AutoTLE>git add * 
-
-C:\Users\Administrator\Documents\AutoTLE>git add logs.txt 
-
-C:\Users\Administrator\Documents\AutoTLE>git commit -a -m "Auto upload" 
-On branch master
-Your branch is up to date with 'origin/master'.
-
-nothing to commit, working tree clean
-
-C:\Users\Administrator\Documents\AutoTLE>git push -u --force origin master 
-branch 'master' set up to track 'origin/master'.
 
 C:\Users\Administrator\Documents\AutoTLE>git add logs.txt 
 
