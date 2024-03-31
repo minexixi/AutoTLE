@@ -80,8 +80,8 @@ LEDSAT
 49069U
 InspireSat-7
 
-C:\Users\Administrator\Documents\AutoTLE>git add *  1>C:\Users\Administrator\Documents\AutoTLE\logs.txt 
+C:\Users\Administrator\Documents\AutoTLE>git add * 
 
-C:\Users\Administrator\Documents\AutoTLE>git add logs.txt  1>C:\Users\Administrator\Documents\AutoTLE\logs.txt 
+C:\Users\Administrator\Documents\AutoTLE>git add logs.txt 
 
 C:\Users\Administrator\Documents\AutoTLE>git commit -a -m "Auto upload"  
