@@ -1,188 +1,68 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml">
-<head>
-<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1"/>
-<title>403 - Forbidden: Access is denied.</title>
-<style type="text/css">
-<!--
-body{margin:0;font-size:.7em;font-family:Verdana, Arial, Helvetica, sans-serif;background:#EEEEEE;}
-fieldset{padding:0 15px 10px 15px;}
-h1{font-size:2.4em;margin:0;color:#FFF;}
-h2{font-size:1.7em;margin:0;color:#CC0000;}
-h3{font-size:1.2em;margin:10px 0 0 0;color:#000000;}
-#header{width:96%;margin:0 0 0 0;padding:6px 2% 6px 2%;font-family:"trebuchet MS", Verdana, sans-serif;color:#FFF;
-background-color:#555555;}
-#content{margin:0 0 0 2%;position:relative;}
-.content-container{background:#FFF;width:96%;margin-top:8px;padding:10px;position:relative;}
--->
-</style>
-</head>
+<html>
+<head><title>504 Gateway Time-out</title></head>
 <body>
-<div id="header"><h1>Server Error</h1></div>
-<div id="content">
- <div class="content-container"><fieldset>
-  <h2>403 - Forbidden: Access is denied.</h2>
-  <h3>Access from IP address 193.122.133.157 was
-    blocked for celestrak.org/NORAD/elements/amateur.txt.</h3>
-  <h3>We have detected excessive downloads for files in the /NORAD/elements
-    directory and access has been temporarily blocked. Access will be automatically
-    restored once the excessive downloads have ceased for 2 hours.<br><br>
-    Please note that orbital data files are only checked for updates every 2
-    hours and most orbital data only updates 2-3 times a day (or less). Please
-    check your scripts to ensure they are operating properly.</h3>
-  <h3>Please contact <a href="mailto:ts.kelso@celestrak.org">ts.kelso@celestrak.org</a> if you have questions.</h3>
-</fieldset></div>
-</div>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center>nginx/1.20.1</center>
 </body>
 </html>
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml">
-<head>
-<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1"/>
-<title>403 - Forbidden: Access is denied.</title>
-<style type="text/css">
-<!--
-body{margin:0;font-size:.7em;font-family:Verdana, Arial, Helvetica, sans-serif;background:#EEEEEE;}
-fieldset{padding:0 15px 10px 15px;}
-h1{font-size:2.4em;margin:0;color:#FFF;}
-h2{font-size:1.7em;margin:0;color:#CC0000;}
-h3{font-size:1.2em;margin:10px 0 0 0;color:#000000;}
-#header{width:96%;margin:0 0 0 0;padding:6px 2% 6px 2%;font-family:"trebuchet MS", Verdana, sans-serif;color:#FFF;
-background-color:#555555;}
-#content{margin:0 0 0 2%;position:relative;}
-.content-container{background:#FFF;width:96%;margin-top:8px;padding:10px;position:relative;}
--->
-</style>
-</head>
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<html>
+<head><title>504 Gateway Time-out</title></head>
 <body>
-<div id="header"><h1>Server Error</h1></div>
-<div id="content">
- <div class="content-container"><fieldset>
-  <h2>403 - Forbidden: Access is denied.</h2>
-  <h3>Access from IP address 193.122.133.157 was
-    blocked for celestrak.org/NORAD/elements/cubesat.txt.</h3>
-  <h3>We have detected excessive downloads for files in the /NORAD/elements
-    directory and access has been temporarily blocked. Access will be automatically
-    restored once the excessive downloads have ceased for 2 hours.<br><br>
-    Please note that orbital data files are only checked for updates every 2
-    hours and most orbital data only updates 2-3 times a day (or less). Please
-    check your scripts to ensure they are operating properly.</h3>
-  <h3>Please contact <a href="mailto:ts.kelso@celestrak.org">ts.kelso@celestrak.org</a> if you have questions.</h3>
-</fieldset></div>
-</div>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center>nginx/1.20.1</center>
 </body>
 </html>
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml">
-<head>
-<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1"/>
-<title>403 - Forbidden: Access is denied.</title>
-<style type="text/css">
-<!--
-body{margin:0;font-size:.7em;font-family:Verdana, Arial, Helvetica, sans-serif;background:#EEEEEE;}
-fieldset{padding:0 15px 10px 15px;}
-h1{font-size:2.4em;margin:0;color:#FFF;}
-h2{font-size:1.7em;margin:0;color:#CC0000;}
-h3{font-size:1.2em;margin:10px 0 0 0;color:#000000;}
-#header{width:96%;margin:0 0 0 0;padding:6px 2% 6px 2%;font-family:"trebuchet MS", Verdana, sans-serif;color:#FFF;
-background-color:#555555;}
-#content{margin:0 0 0 2%;position:relative;}
-.content-container{background:#FFF;width:96%;margin-top:8px;padding:10px;position:relative;}
--->
-</style>
-</head>
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<html>
+<head><title>504 Gateway Time-out</title></head>
 <body>
-<div id="header"><h1>Server Error</h1></div>
-<div id="content">
- <div class="content-container"><fieldset>
-  <h2>403 - Forbidden: Access is denied.</h2>
-  <h3>Access from IP address 193.122.133.157 was
-    blocked for celestrak.org/NORAD/elements/dmc.txt.</h3>
-  <h3>We have detected excessive downloads for files in the /NORAD/elements
-    directory and access has been temporarily blocked. Access will be automatically
-    restored once the excessive downloads have ceased for 2 hours.<br><br>
-    Please note that orbital data files are only checked for updates every 2
-    hours and most orbital data only updates 2-3 times a day (or less). Please
-    check your scripts to ensure they are operating properly.</h3>
-  <h3>Please contact <a href="mailto:ts.kelso@celestrak.org">ts.kelso@celestrak.org</a> if you have questions.</h3>
-</fieldset></div>
-</div>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center>nginx/1.20.1</center>
 </body>
 </html>
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml">
-<head>
-<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1"/>
-<title>403 - Forbidden: Access is denied.</title>
-<style type="text/css">
-<!--
-body{margin:0;font-size:.7em;font-family:Verdana, Arial, Helvetica, sans-serif;background:#EEEEEE;}
-fieldset{padding:0 15px 10px 15px;}
-h1{font-size:2.4em;margin:0;color:#FFF;}
-h2{font-size:1.7em;margin:0;color:#CC0000;}
-h3{font-size:1.2em;margin:10px 0 0 0;color:#000000;}
-#header{width:96%;margin:0 0 0 0;padding:6px 2% 6px 2%;font-family:"trebuchet MS", Verdana, sans-serif;color:#FFF;
-background-color:#555555;}
-#content{margin:0 0 0 2%;position:relative;}
-.content-container{background:#FFF;width:96%;margin-top:8px;padding:10px;position:relative;}
--->
-</style>
-</head>
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<html>
+<head><title>504 Gateway Time-out</title></head>
 <body>
-<div id="header"><h1>Server Error</h1></div>
-<div id="content">
- <div class="content-container"><fieldset>
-  <h2>403 - Forbidden: Access is denied.</h2>
-  <h3>Access from IP address 193.122.133.157 was
-    blocked for celestrak.org/NORAD/elements/weather.txt.</h3>
-  <h3>We have detected excessive downloads for files in the /NORAD/elements
-    directory and access has been temporarily blocked. Access will be automatically
-    restored once the excessive downloads have ceased for 2 hours.<br><br>
-    Please note that orbital data files are only checked for updates every 2
-    hours and most orbital data only updates 2-3 times a day (or less). Please
-    check your scripts to ensure they are operating properly.</h3>
-  <h3>Please contact <a href="mailto:ts.kelso@celestrak.org">ts.kelso@celestrak.org</a> if you have questions.</h3>
-</fieldset></div>
-</div>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center>nginx/1.20.1</center>
 </body>
 </html>
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml">
-<head>
-<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1"/>
-<title>403 - Forbidden: Access is denied.</title>
-<style type="text/css">
-<!--
-body{margin:0;font-size:.7em;font-family:Verdana, Arial, Helvetica, sans-serif;background:#EEEEEE;}
-fieldset{padding:0 15px 10px 15px;}
-h1{font-size:2.4em;margin:0;color:#FFF;}
-h2{font-size:1.7em;margin:0;color:#CC0000;}
-h3{font-size:1.2em;margin:10px 0 0 0;color:#000000;}
-#header{width:96%;margin:0 0 0 0;padding:6px 2% 6px 2%;font-family:"trebuchet MS", Verdana, sans-serif;color:#FFF;
-background-color:#555555;}
-#content{margin:0 0 0 2%;position:relative;}
-.content-container{background:#FFF;width:96%;margin-top:8px;padding:10px;position:relative;}
--->
-</style>
-</head>
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<html>
+<head><title>504 Gateway Time-out</title></head>
 <body>
-<div id="header"><h1>Server Error</h1></div>
-<div id="content">
- <div class="content-container"><fieldset>
-  <h2>403 - Forbidden: Access is denied.</h2>
-  <h3>Access from IP address 193.122.133.157 was
-    blocked for celestrak.org/NORAD/elements/tle-new.txt.</h3>
-  <h3>We have detected excessive downloads for files in the /NORAD/elements
-    directory and access has been temporarily blocked. Access will be automatically
-    restored once the excessive downloads have ceased for 2 hours.<br><br>
-    Please note that orbital data files are only checked for updates every 2
-    hours and most orbital data only updates 2-3 times a day (or less). Please
-    check your scripts to ensure they are operating properly.</h3>
-  <h3>Please contact <a href="mailto:ts.kelso@celestrak.org">ts.kelso@celestrak.org</a> if you have questions.</h3>
-</fieldset></div>
-</div>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center>nginx/1.20.1</center>
 </body>
 </html>
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
 NOAA 1                  
 1 04793U 70106A   24116.61886519 -.00000024  00000+0  11903-3 0  9998
 2 04793 101.4505 170.5600 0031994  80.3566  73.7672 12.54026611442598
@@ -252,40 +132,16 @@ NOAA 20 (JPSS-1)
 NOAA 21 (JPSS-2)        
 1 54234U 22150A   24116.58402242  .00000391  00000+0  20610-3 0  9993
 2 54234  98.7489  55.1024 0000746  64.0187 296.1066 14.19555032 75518
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml">
-<head>
-<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1"/>
-<title>403 - Forbidden: Access is denied.</title>
-<style type="text/css">
-<!--
-body{margin:0;font-size:.7em;font-family:Verdana, Arial, Helvetica, sans-serif;background:#EEEEEE;}
-fieldset{padding:0 15px 10px 15px;}
-h1{font-size:2.4em;margin:0;color:#FFF;}
-h2{font-size:1.7em;margin:0;color:#CC0000;}
-h3{font-size:1.2em;margin:10px 0 0 0;color:#000000;}
-#header{width:96%;margin:0 0 0 0;padding:6px 2% 6px 2%;font-family:"trebuchet MS", Verdana, sans-serif;color:#FFF;
-background-color:#555555;}
-#content{margin:0 0 0 2%;position:relative;}
-.content-container{background:#FFF;width:96%;margin-top:8px;padding:10px;position:relative;}
--->
-</style>
-</head>
+<html>
+<head><title>504 Gateway Time-out</title></head>
 <body>
-<div id="header"><h1>Server Error</h1></div>
-<div id="content">
- <div class="content-container"><fieldset>
-  <h2>403 - Forbidden: Access is denied.</h2>
-  <h3>Access from IP address 193.122.133.157 was
-    blocked for celestrak.org/NORAD/elements/stations.txt.</h3>
-  <h3>We have detected excessive downloads for files in the /NORAD/elements
-    directory and access has been temporarily blocked. Access will be automatically
-    restored once the excessive downloads have ceased for 2 hours.<br><br>
-    Please note that orbital data files are only checked for updates every 2
-    hours and most orbital data only updates 2-3 times a day (or less). Please
-    check your scripts to ensure they are operating properly.</h3>
-  <h3>Please contact <a href="mailto:ts.kelso@celestrak.org">ts.kelso@celestrak.org</a> if you have questions.</h3>
-</fieldset></div>
-</div>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center>nginx/1.20.1</center>
 </body>
 </html>
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
